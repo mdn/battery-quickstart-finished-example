@@ -1,6 +1,7 @@
 {
   "name": "Battery",
   "description": "Battery provides a good template for an in-app battery/charge indicator with different visualization choices, plus ideas of what could be changed once battery level gets low.",
+  "appcache_path": "/battery.manifest",
   "launch_path": "/",
   "icons": {
     "128": "/images/icon-128.png"
