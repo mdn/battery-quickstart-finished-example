@@ -1,11 +1,12 @@
 CACHE MANIFEST
-# v2 2014-06-24
+# v3 2014-06-24
 
 CACHE:
 
+index.html
 manifest.webapp
-/scripts/battery.js
-/scripts/install.js
-/style/style.css
-/images/battery.svg
-/images/icon-128.png
+scripts/battery.js
+scripts/install.js
+style/style.css
+images/battery.svg
+images/icon-128.png
