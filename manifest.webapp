@@ -1,9 +1,9 @@
 {
   "name": "Battery",
   "description": "Battery provides a good template for an in-app battery/charge indicator with different visualization choices, plus ideas of what could be changed once battery level gets low.",
-  "launch_path": "/battery-quickstart-finished-example/index.html",
+  "launch_path": "/index.html",
   "icons": {
-    "128": "/battery-quickstart-finished-example/images/icon-128.png"
+    "128": "/images/icon-128.png"
   },
   "developer": {
     "name": "Chris Mills",
