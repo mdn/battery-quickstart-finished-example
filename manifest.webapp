@@ -3,7 +3,8 @@
   "description": "Battery provides a good template for an in-app battery/charge indicator with different visualization choices, plus ideas of what could be changed once battery level gets low.",
   "launch_path": "/index.html",
   "icons": {
-    "128": "/images/icon-128.png"
+    "128": "/images/icon-128.png",
+    "512": "/images/icon-512.png"
   },
   "developer": {
     "name": "Chris Mills",
