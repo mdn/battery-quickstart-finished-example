@@ -1,5 +1,5 @@
 {
-  "name": "Notery",
+  "name": "Nottery",
   "description": "An application to show the battery charge status and notify it accordingly",
   "launch_path": "/index.html",
   "icons": {
