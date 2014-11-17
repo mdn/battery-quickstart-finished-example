@@ -1,14 +1,14 @@
 {
-  "name": "Battery",
-  "description": "Battery provides a good template for an in-app battery/charge indicator with different visualization choices, plus ideas of what could be changed once battery level gets low.",
+  "name": "Notery",
+  "description": "An application to show the battery charge status and notify it accordingly",
   "launch_path": "/index.html",
   "icons": {
     "128": "/images/icon-128.png",
     "512": "/images/icon-512.png"
   },
   "developer": {
-    "name": "Chris Mills",
-    "url": "http://www.conquestofsteel.co.uk"
+    "name": "Balaji Ravichandran",
+    
   },
   "permissions": {
     "desktop-notification": {
